@@ -1,6 +1,7 @@
 = test-git docs
-v1.0
+
 :toc:
+toc::[]
 
 == Title 1
 
