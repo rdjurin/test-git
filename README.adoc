@@ -1,7 +1,7 @@
 = test-git docs
-
+v1.2
 :toc:
-toc::[]
+:toc-placement: preamble
 
 == Title 1
 
