@@ -1,7 +1,11 @@
 = test-git docs
 v1.2
-:toc:
-:toc-placement: preamble
+:toc: macro
+
+toc::[]
+<<<
+:numbered:
+<<<
 
 == Title 1
 
